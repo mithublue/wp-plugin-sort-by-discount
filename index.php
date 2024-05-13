@@ -1,4 +1,16 @@
 <?php
+/**
+ * Plugin Name: Sort Product by Discount - by Mithu A Quayium
+ * Plugin URI:
+ * Description: A plugins sort products by discount
+ * Version: 1.0
+ * Author: Mithu A Quayium
+ * Author URI:
+ * Text Domain: vpl
+ * Domain Path: /i18n/languages/
+ * Requires at least: 6.3
+ * Requires PHP: 5.4
+ */
 //This is hot deals , sort by discount
 function custom_woocommerce_catalog_orderby( $sortby ) {
 	$sortby['nd-discount'] = __( 'Sort by Discount', 'woocommerce' );
