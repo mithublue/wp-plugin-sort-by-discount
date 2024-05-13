@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Sort Product by Discount - by Mithu A Quayium
+ * Plugin Name: Sort Product by Discount - by Mithu
  * Plugin URI:
  * Description: A plugins sort products by discount
  * Version: 1.0
